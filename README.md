@@ -2,7 +2,7 @@
 Daily Information
 =================
 
-# <built-in method today of type object at 0x781e4f51d0>
+# 2024-01-30
 
 ## Tagesschau
   
