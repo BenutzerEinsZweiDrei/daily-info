@@ -2,7 +2,7 @@
 Daily Information
 =================
 
-# tägliche Übersicht
+# 
 
 ## Tagesschau
   
