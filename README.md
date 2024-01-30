@@ -19,4 +19,4 @@ Daily Information
 [Wolken, Temperaturen, Wind und Aussichten](https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html)
 ## Blink
   
-[Capitalist Realism: Is There No Alternative?](https://www.blinkist.com/en/books/capitalist-realism-en)
+[Beziehungsstatus: kompliziert: Die absolute Wahrheit über Männer, Frauen, Sex und Liebe](https://www.blinkist.com/de/books/beziehungsstatus-kompliziert-de)
