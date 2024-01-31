@@ -4,7 +4,7 @@ Daily Information
 
 # 2024-01-31
 
-## Tagesschau
+## Tagesschau Headlines
   
 ["Es tut ein ganzes Leben weh"](https://www.tagesschau.de/inland/gesellschaft/gedenken-opfer-nationalsozialismus-100.html)  
 [Ernüchtertes Königreich](https://www.tagesschau.de/ausland/europa/vier-jahre-brexit-bilanz-100.html)  
@@ -17,7 +17,7 @@ Daily Information
 [Judith Rakers' letzte tagesschau](https://www.tagesschau.de/inland/judith-rakers-abschied-100.html)  
 [Fortuna Düsseldorf gelingt Coup beim FC St. Pauli](https://www.sportschau.de/fussball/dfbpokal/spielbericht-dfb-pokal-fc-st-pauli-fortuna-duesseldorf-100.html)  
 [Wolken, Temperaturen, Wind und Aussichten](https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html)
-## Blink
+## Free Blink
   
 [Lust auf Verantwortung: Mehr Zufriedenheit, mentale Stärke, bessere Ergebnisse](https://www.blinkist.com/de/books/lust-auf-verantwortung-de)
 ## täglicher Podcast
