@@ -6,17 +6,16 @@ Daily Information
 
 ## Tagesschau Headlines
   
+["Es begann mit Wegschauen"](https://www.tagesschau.de/inland/gesellschaft/bundestag-gedenken-auschwitz-holocaust-befreiung-100.html)  
 [Bezahlkarte für Asylbewerber soll im Sommer kommen](https://www.tagesschau.de/inland/innenpolitik/asylbewerber-bezahlkarte-bundeslaender-100.html)  
+[Inflationsrate auf 2,9 Prozent gesunken](https://www.tagesschau.de/wirtschaft/finanzen/inflation-deutschland-januar-100.html)  
 [Zahl der Arbeitslosen im Januar gestiegen](https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-234.html)  
-["Es tut ein ganzes Leben weh"](https://www.tagesschau.de/inland/gesellschaft/gedenken-opfer-nationalsozialismus-100.html)  
 ["Wir müssen demokratisch bleiben"](https://www.tagesschau.de/ausland/europa/klitschko-interview-100.html)  
-[++ Gespräche über EU-Hilfen für Ukraine ++](https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-330.html)  
+[++ Ukraine und Russland tauschen Gefangene aus ++](https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-330.html)  
 [Ernüchtertes Königreich](https://www.tagesschau.de/ausland/europa/vier-jahre-brexit-bilanz-100.html)  
 [Kennzeichnung reicht Verbraucherschützern nicht](https://www.tagesschau.de/wirtschaft/verbraucher/fleisch-herkunft-supermaerkte-metzgereien-kennzeichnung-siegel-100.html)  
-[Richterin kippt Musks milliardenschweres Gehaltspaket](https://www.tagesschau.de/wirtschaft/elon-musk-tesla-urteil-verguetung-100.html)  
-[++ BBC: Hälfte der Gaza-Gebäude beschädigt ++](https://www.tagesschau.de/newsticker/liveblog-nahost-mittwoch-100.html)  
+[++ EU-Mission im Roten Meer startet Mitte Februar ++](https://www.tagesschau.de/newsticker/liveblog-nahost-mittwoch-100.html)  
 [Judith Rakers' letzte tagesschau](https://www.tagesschau.de/inland/judith-rakers-abschied-100.html)  
-[Fortuna Düsseldorf gelingt Coup beim FC St. Pauli](https://www.sportschau.de/fussball/dfbpokal/spielbericht-dfb-pokal-fc-st-pauli-fortuna-duesseldorf-100.html)  
 [Wolken, Temperaturen, Wind und Aussichten](https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html)
 ## Free Blink
   
@@ -24,7 +23,7 @@ Daily Information
 ## täglicher Podcast
   
 [Das Ende der Bekleisterung](https://www.ardaudiothek.de/episode/ende-der-welt-die-taegliche-glosse/das-ende-der-bekleisterung/bayern-2/13115913/)  
-[no](no)
+[Salz - Wieviel davon ist ok?](https://www.ardaudiothek.de/episode/quarks-daily-dein-taeglicher-wissenspodcast/salz-wieviel-davon-ist-ok/wdr/13115931/)
 ## daily talkshow
   
 [Wagenknecht und Maaßen - Welche Chancen haben neue Parteien?](https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDMyMjQ2Mg)
