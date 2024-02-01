@@ -1,9 +1,7 @@
 # use https://github.com/NicoWeio/blinkist
 
 # import blinkist as library
-from blinkist.blinkist import (get_free_daily, get_latest_books,
-                               get_latest_collections, get_trending_books,
-                               search_books)
+from blinkist.blinkist import (get_free_daily)
 
 def get_f():
 	return get_free_daily("de")
