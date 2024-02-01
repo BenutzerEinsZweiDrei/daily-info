@@ -14,7 +14,8 @@ def create_table(ts):
 	table = []
 	for item in ts["news"]:
 		if "title" and "shareURL" in item:
-			table.append({ "url" : item["shareURL"], "hl" : item["title"]})
+			if not list(item["title"])[0] == '"':
+				table.append({ "url" : item["shareURL"], "hl" : item["title"]})
 	return table
 			
 def headlines():

@@ -24,14 +24,17 @@ def get_item(endpoint):
 	
 def search(qu):
 	for item in get_ids(qu)["data"]["search"]["items"]["nodes"]:
-		if "2024-01-30" == item["publishDate"].split(":")[0].split("T")[0]:
+		if str(date.today()) == item["publishDate"].split(":")[0].split("T")[0]:
 			se_result = get_item(item["url"])
 			# title, sharingUrl
 			return {"title": se_result["title"], "url": se_result["sharingUrl"]}
 		# print(date.today())
+		# if we didnt get result
+	return {"title": "no","url":"no"}
 
 def table():
 	tab = []
 	tab.append(search("Ende der Welt Glosse"))
 	tab.append(search("Quarks Daily Wissenspodcast"))
 	return tab
+	# Quarks kommt um 15 Uhr

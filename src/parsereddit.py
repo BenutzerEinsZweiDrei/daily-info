@@ -14,21 +14,25 @@ def get_rss(endpoint):
 def get_data(endpoint):
 	for child in get_rss(endpoint):
 		if "entry" in child.tag:
-			# 8, 5, publish:7
-			# print(str(date.today()))
 			if "published" in child[6].tag:
-				if "2024-01-30" == child[6].text.split(":")[0].split("T")[0]:
-					
+				
+				if str(date.today()) == child[6].text.split(":")[0].split("T")[0]:
 					return {"title": child[7].text, "url":child[4].attrib["href"]}
-			else:
-				if "2024-01-30" == child[7].text.split(":")[0].split("T")[0]:
 					
+			elif str(date.today()) == child[7].text.split(":")[0].split("T")[0]:
 					return {"title": child[8].text, "url":child[5].attrib["href"]}
+					
+def check(endpoint):
+	result = get_data(endpoint)
+	if result:
+		return result
+	else:
+		return {"title": "no", "url": "no"}
 
 def table():
 	tab = []
-	tab.append(get_data("https://www.reddit.com/r/YouShouldKnow/.rss"))
-	tab.append(get_data("https://www.reddit.com/r/todayilearned/.rss"))
-	tab.append(get_data("https://www.reddit.com/r/LifeProTips/.rss"))
+	tab.append(check("https://www.reddit.com/r/YouShouldKnow/.rss"))
+	tab.append(check("https://www.reddit.com/r/todayilearned/.rss"))
+	tab.append(check("https://www.reddit.com/r/LifeProTips/.rss"))
 	return tab
 

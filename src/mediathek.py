@@ -1,5 +1,4 @@
 # curl mediathekwebview
-# momentan nicht eingebunden
 
 import requests
 
@@ -9,21 +8,26 @@ def get_ard(query):
 	payload = {
     "queries": [ # multiple queries
       {
-        "fields": ['title', 'topic'], # fields channel
+        "fields": ["topic"], # fields channel, title, topic
         "query": query
       }
     ],
     "sortBy": 'timestamp',
     "sortOrder": 'desc',
     "future": False,
-    "offset": 0,
-    "size": 10,
-    "duration_min": 20,
-    "duration_max": 100
+    "offset": 0
+    # "size": 10
+    # "duration_min": 20,
+    # "duration_max": 100
   }
+	for item in query.split("#"):
+		payload["queries"].append({ "fields": ["topic"], "query": item})
 	result = requests.post(url, headers=headers, json=payload)
 	# 
 	print(result.status_code)
+	# print(result.text)
 	return result.json()
 
-print(get_ard("Tagesschau")["result"]["results"][0]) #url website und title
+def get():
+	result = get_ard("#miosga #hart,aber,fair #maischberger #phoenix,runde #unter,den,linden #presse,club #markus,lanz")["result"]["results"][0] #url website und title
+	return { "title": result["title"], "url" : result["url_website"]} 
