@@ -2,33 +2,34 @@
 Daily Information
 =================
 
-# 2024-01-31
+# 2024-02-01
 
 ## Tagesschau Headlines
   
-["Es begann mit Wegschauen"](https://www.tagesschau.de/inland/gesellschaft/bundestag-gedenken-auschwitz-holocaust-befreiung-100.html)  
-[Bezahlkarte für Asylbewerber soll im Sommer kommen](https://www.tagesschau.de/inland/innenpolitik/asylbewerber-bezahlkarte-bundeslaender-100.html)  
-[Inflationsrate auf 2,9 Prozent gesunken](https://www.tagesschau.de/wirtschaft/finanzen/inflation-deutschland-januar-100.html)  
-[Zahl der Arbeitslosen im Januar gestiegen](https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-234.html)  
-["Wir müssen demokratisch bleiben"](https://www.tagesschau.de/ausland/europa/klitschko-interview-100.html)  
-[++ Ukraine und Russland tauschen Gefangene aus ++](https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-330.html)  
-[Ernüchtertes Königreich](https://www.tagesschau.de/ausland/europa/vier-jahre-brexit-bilanz-100.html)  
-[Kennzeichnung reicht Verbraucherschützern nicht](https://www.tagesschau.de/wirtschaft/verbraucher/fleisch-herkunft-supermaerkte-metzgereien-kennzeichnung-siegel-100.html)  
-[++ EU-Mission im Roten Meer startet Mitte Februar ++](https://www.tagesschau.de/newsticker/liveblog-nahost-mittwoch-100.html)  
-[Judith Rakers' letzte tagesschau](https://www.tagesschau.de/inland/judith-rakers-abschied-100.html)  
+[EU einigt sich auf 50-Milliarden-Paket für Ukraine](https://www.tagesschau.de/ausland/europa/orban-eu-gipfel-104.html)  
+[Lieferkettengesetz könnte an Deutschland scheitern](https://www.tagesschau.de/wirtschaft/lieferkettengesetz-eu-deutschland-102.html)  
+[Mehr Schulden für den Klimaschutz?](https://www.tagesschau.de/inland/innenpolitik/klima-haushalt-100.html)  
+[Katalonien ruft Wassernotstand aus](https://www.tagesschau.de/ausland/europa/spanien-katalonien-duerre-notstand-100.html)  
+[Leere Terminals, leere Flugzeuge](https://www.tagesschau.de/inland/flughafen-streik-118.html)  
+[US-Kriegsschiff fängt drei Drohnen ab](https://www.tagesschau.de/ausland/rotes-meer-drohnen-100.html)  
+[++ Fregatte "Hessen" soll ins Rote Meer fahren ++](https://www.tagesschau.de/newsticker/liveblog-nahost-donnerstag-102.html)  
+[Traktoren blockieren Straßen in Brüssel](https://www.tagesschau.de/ausland/europa/bauern-protest-belgien-bruessel-100.html)  
+[++ Selenskyj dankt EU für Milliardenhilfen ++](https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-310.html)  
+[Verbraucher trinken weniger Bier](https://www.tagesschau.de/wirtschaft/verbraucher/bier-bierkonsum-100.html)  
+[Judith Rakers verabschiedet sich "ganz dezent"](https://www.tagesschau.de/inland/rakers-letzte-sendung-100.html)  
 [Wolken, Temperaturen, Wind und Aussichten](https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html)
 ## Free Blink
   
-[Lust auf Verantwortung: Mehr Zufriedenheit, mentale Stärke, bessere Ergebnisse](https://www.blinkist.com/de/books/lust-auf-verantwortung-de)
+[Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft](https://www.blinkist.com/de/books/triggerpunkte-de)
 ## täglicher Podcast
   
-[Das Ende der Bekleisterung](https://www.ardaudiothek.de/episode/ende-der-welt-die-taegliche-glosse/das-ende-der-bekleisterung/bayern-2/13115913/)  
-[Salz - Wieviel davon ist ok?](https://www.ardaudiothek.de/episode/quarks-daily-dein-taeglicher-wissenspodcast/salz-wieviel-davon-ist-ok/wdr/13115931/)
+[no](no)  
+[no](no)
 ## daily talkshow
   
-[Wagenknecht und Maaßen - Welche Chancen haben neue Parteien?](https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDMyMjQ2Mg)
+[Schlagabtausch im Bundestag - Kriegt die Ampel noch die Kurve?](https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDMyMzU5Mg)
 ## reddit
   
 [YSK there’s a website you can check to see if an animal dies in the movie you’re watching, or any other potential trigger](https://www.reddit.com/r/YouShouldKnow/comments/1aeyso1/ysk_theres_a_website_you_can_check_to_see_if_an/)  
-[TIL that while shooting a TV series, 12-year-old Kurt Russell gave co-star Charles Bronson a birthday gift but the older actor walked away without responding. Bronson, who grew up very poor, later thanked Russell, explaining he had never been given a birthday gift before.](https://www.reddit.com/r/todayilearned/comments/1aevkzn/til_that_while_shooting_a_tv_series_12yearold/)  
+[no](no)  
 [LPT: Not into sports? Book a hard to get restaurant for Super Bowl Sunday](https://www.reddit.com/r/LifeProTips/comments/1aeri3m/lpt_not_into_sports_book_a_hard_to_get_restaurant/)
