@@ -44,6 +44,7 @@ def click_button():
 st.button('Get Data', on_click=click_button)
 
 if st.session_state.clicked:
+	st.text("If Loading fails, try again!")
 	load_state = st.text("Loading...")
 	result = createdata()
 	md = createmd(result)
