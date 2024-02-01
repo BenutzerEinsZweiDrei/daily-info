@@ -23,8 +23,8 @@ Daily Information
 [Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft](https://www.blinkist.com/de/books/triggerpunkte-de)
 ## täglicher Podcast
   
-[no](no)  
-[no](no)
+[Geckos Lichtmess](https://www.ardaudiothek.de/episode/ende-der-welt-die-taegliche-glosse/geckos-lichtmess/bayern-2/13118583/)  
+[Apps bei Depressionen - Hilft das wirklich?](https://www.ardaudiothek.de/episode/quarks-daily-dein-taeglicher-wissenspodcast/apps-bei-depressionen-hilft-das-wirklich/wdr/13117017/)
 ## daily talkshow
   
 [Schlagabtausch im Bundestag - Kriegt die Ampel noch die Kurve?](https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDMyMzU5Mg)
