@@ -30,6 +30,6 @@ Daily Information
 [Schlagabtausch im Bundestag - Kriegt die Ampel noch die Kurve?](https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNDMyMzU5Mg)
 ## reddit
   
-[YSK there’s a website you can check to see if an animal dies in the movie you’re watching, or any other potential trigger](https://www.reddit.com/r/YouShouldKnow/comments/1aeyso1/ysk_theres_a_website_you_can_check_to_see_if_an/)  
-[no](no)  
-[LPT: Not into sports? Book a hard to get restaurant for Super Bowl Sunday](https://www.reddit.com/r/LifeProTips/comments/1aeri3m/lpt_not_into_sports_book_a_hard_to_get_restaurant/)
+[YSK: (US) Every state has an unclaimed property website](https://www.reddit.com/r/YouShouldKnow/comments/1ag0l1w/ysk_us_every_state_has_an_unclaimed_property/)  
+[TIL that in 1997, Julie Andrews underwent surgery to remove non-cancerous nodules from her throat, but emerged from the surgery with permanent damage that destroyed the purity of her singing and made her speaking voice raspy.](https://www.reddit.com/r/todayilearned/comments/1ag8x6b/til_that_in_1997_julie_andrews_underwent_surgery/)  
+[LPT: Looking for a space in a super full parking lot? Roll down your windows.](https://www.reddit.com/r/LifeProTips/comments/1ag3ark/lpt_looking_for_a_space_in_a_super_full_parking/)
