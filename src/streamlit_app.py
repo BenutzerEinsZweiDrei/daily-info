@@ -4,13 +4,15 @@ import tagesschau
 import ardaudio
 import mediathek
 import parsereddit
+import blink
 
 def createdata():
 	ts = tagesschau.headlines()
 	ard = ardaudio.table()
 	mt = mediathek.get()
 	red = parsereddit.table()
-	return [ts,ard,mt,red]
+	bl = blink.free()
+	return [ts,ard,mt,red, bl]
 
 def createmd(data):
 	text = "## Tagesschau  \n"
@@ -24,6 +26,8 @@ def createmd(data):
 	text = text + "## Reddit  \n"
 	for item in data[3]:
 		text = text + "["+item["title"]+"]("+item["url"]+")  \n"
+	text = text + "## Free Blink  \n"
+	text = text + "["+data[4]["title"]+": "+ data[4]["subtitle"]+"]("+data[4]["url"]+")  \n"
 	return text
 	
 	
