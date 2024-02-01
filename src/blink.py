@@ -2,6 +2,7 @@
 
 # import blinkist as library
 from blinkist.blinkist import (get_free_daily)
+import yaml
 
 def get_f():
 	return get_free_daily("de")
