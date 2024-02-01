@@ -13,15 +13,15 @@ def createdata():
 	return [ts,ard,mt,red]
 
 def createmd(data):
-	text = "Tagesschau  \n"
+	text = "## Tagesschau  \n"
 	for item in data[0]:
 		text = text + "["+item["hl"]+"]("+item["url"]+")  \n"
-	text = text + "Podcast<br>"
+	text = text + "## Podcast  \n"
 	for item in data[1]:
 		text = text + "["+item["title"]+"]("+item["url"]+")  \n"
-	text = text + "Talkshow  \n"
+	text = text + "## Talkshow  \n"
 	text = text + "["+data[2]["title"]+"]("+data[2]["url"]+")  \n"
-	text = text + "Reddit  \n"
+	text = text + "## Reddit  \n"
 	for item in data[3]:
 		text = text + "["+item["title"]+"]("+item["url"]+")  \n"
 	return text
