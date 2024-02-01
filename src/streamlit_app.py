@@ -19,7 +19,7 @@ def createmd(data):
 	text = text + "Podcast<br>"
 	for item in data[1]:
 		text = text + "["+item["title"]+"]("+item["url"]+")  \n"
-	text = text + "Talkshow<br>"
+	text = text + "Talkshow  \n"
 	text = text + "["+data[2]["title"]+"]("+data[2]["url"]+")  \n"
 	text = text + "Reddit  \n"
 	for item in data[3]:
@@ -31,7 +31,15 @@ def createmd(data):
 	
 st.title("Daily Information")
 
-if st.button("Get Data"):
+if 'clicked' not in st.session_state:
+    st.session_state.clicked = False
+
+def click_button():
+    st.session_state.clicked = True
+
+st.button('Get Data', on_click=click_button)
+
+if st.session_state.clicked:
 	load_state = st.text("Loading...")
 	result = createdata()
 	md = createmd(result)
