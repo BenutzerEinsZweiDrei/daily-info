@@ -6,11 +6,12 @@ import mediathek
 import parsereddit
 
 def createdata():
-	ts = tagesschau.headlines()
-	ard = ardaudio.table()
-	mt = mediathek.get()
-	red = parsereddit.table()
-	return {ts,ard,mt,red}
+	tab = []
+	tab.append(tagesschau.headlines())
+	tab.append(ardaudio.table())
+	tab.append(mediathek.get())
+	tab.append(parsereddit.table())
+	return tab
 	
 st.title("Daily Information")
 
