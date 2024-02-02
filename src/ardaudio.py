@@ -2,7 +2,7 @@
 
 import requests
 import json
-from datetime import date
+from datetime import date, timedelta
 
 def get_ids(thing):
 	url= "https://api.ardaudiothek.de/graphql"
