@@ -13,18 +13,18 @@ def get_rss(endpoint):
 
 def get_data(endpoint):
 	
-	yesterday = (date.today() - timedelta(days=1)).strftime('%m%d%y')
+	yesterday = date.today() - timedelta(days=1)
 	
 	for child in get_rss(endpoint):
 		if "entry" in child.tag:
 			if child[6] and child[7] and child[8]:
 				if "published" in child[6].tag:
 					
-					if str(date.today()) == child[6].text.split(":")[0].split("T")[0] or yesterday == child[6].text.split(":")[0].split("T")[0]:
+					if str(date.today()) == child[6].text.split(":")[0].split("T")[0] or str(yesterday) == child[6].text.split(":")[0].split("T")[0]:
 						return {"title": child[7].text, "url":child[4].attrib["href"]}
 						
 				elif "published" in child[7].tag:
-						if str(date.today()) == child[7].text.split(":")[0].split("T")[0] or yesterday == child[6].text.split(":")[0].split("T")[0]:
+						if str(date.today()) == child[7].text.split(":")[0].split("T")[0] or str(yesterday) == child[6].text.split(":")[0].split("T")[0]:
 							return {"title": child[8].text, "url":child[5].attrib["href"]}
 					
 def check(endpoint):
@@ -40,4 +40,3 @@ def table():
 	tab.append(check("https://www.reddit.com/r/todayilearned/.rss"))
 	tab.append(check("https://www.reddit.com/r/LifeProTips/.rss"))
 	return tab
-
