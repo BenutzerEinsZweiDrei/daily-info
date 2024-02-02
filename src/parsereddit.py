@@ -24,7 +24,7 @@ def get_data(endpoint):
 						return {"title": child[7].text, "url":child[4].attrib["href"]}
 						
 				elif "published" in child[7].tag:
-						if str(date.today()) == child[7].text.split(":")[0].split("T")[0] or str(yesterday) == child[6].text.split(":")[0].split("T")[0]:
+						if str(date.today()) == child[7].text.split(":")[0].split("T")[0] or str(yesterday) == child[7].text.split(":")[0].split("T")[0]:
 							return {"title": child[8].text, "url":child[5].attrib["href"]}
 					
 def check(endpoint):
