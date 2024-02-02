@@ -23,8 +23,11 @@ def get_item(endpoint):
 	
 	
 def search(qu):
+	
+	yesterday = date.today() - timedelta(days=1)
+	
 	for item in get_ids(qu)["data"]["search"]["items"]["nodes"]:
-		if str(date.today()) == item["publishDate"].split(":")[0].split("T")[0]:
+		if str(date.today()) == item["publishDate"].split(":")[0].split("T")[0] or str(yesterday) == item["publishDate"].split(":")[0].split("T")[0]:
 			se_result = get_item(item["url"])
 			# title, sharingUrl
 			return {"title": se_result["title"], "url": se_result["sharingUrl"]}
